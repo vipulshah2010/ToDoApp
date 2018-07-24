@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"待办事项"</string>
+    <string name="enter_task_description">"输入任务说明"</string>
+    <string name="please_enter_task_title">"请输入任务标题"</string>
+</resources>
